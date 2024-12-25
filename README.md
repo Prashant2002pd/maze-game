@@ -8,6 +8,18 @@ This is a JavaScript program that generates and solves a maze. The maze generati
 - Pathfinding using a simple neighbor-checking algorithm
 - Responsive canvas that adjusts to different screen sizes
 
+## Live Demo
+
+You can view the live demo of the project [here](https://yourusername.github.io/maze_program).
+
+## Video
+
+Watch a video demonstration of the Maze Program
+
+<video width="100%" controls>
+  <source src="/video/demo_video.mkv" type="video/mkv">
+  Your browser does not support the video tag.
+</video>
 ## Installation
 
 1. Clone the repository:
