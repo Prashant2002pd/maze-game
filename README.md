@@ -10,16 +10,14 @@ This is a JavaScript program that generates and solves a maze. The maze generati
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://yourusername.github.io/maze_program).
+You can view the live demo of the project [here](https://prashant2002pd.github.io/maze-game/).
 
 ## Video
 
 Watch a video demonstration of the Maze Program
 
-<video width="100%" controls>
-  <source src="/video/demo_video.mkv" type="video/mkv">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Prashant2002pd/maze-game/blob/main/video/demo_video.mkv
+
 ## Installation
 
 1. Clone the repository:
