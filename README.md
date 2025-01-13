@@ -14,7 +14,7 @@ You can view the live demo of the project [here](https://prashant2002pd.github.i
 
 ## Video
 
-[Watch the video](./video/demo_video.mp4)
+![Watch the video](./video/demo_video.gif)
 
 ## Installation
 
