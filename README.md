@@ -14,12 +14,7 @@ You can view the live demo of the project [here](https://prashant2002pd.github.i
 
 ## Video
 
-Watch a video demonstration of the Maze Program
-
-<video width="600" controls>
-  <source src="./video/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](./video/demo_video.mp4)
 
 ## Installation
 
