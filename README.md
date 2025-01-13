@@ -14,7 +14,7 @@ You can view the live demo of the project [here](https://prashant2002pd.github.i
 
 ## Video
 
-![Watch the video](./video/demo_video.gif)
+<img src="./video/demo_video (1).gif" width="800" alt="Resized GIF">
 
 ## Installation
 
