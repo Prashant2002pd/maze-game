@@ -16,7 +16,7 @@ You can view the live demo of the project [here](https://prashant2002pd.github.i
 
 Watch a video demonstration of the Maze Program
 
-https://github.com/Prashant2002pd/maze-game/blob/main/video/demo_video.mkv
+https://github.com/Prashant2002pd/maze-game/blob/main/video/demo_video.mp4
 
 ## Installation
 

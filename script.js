@@ -11,8 +11,17 @@ let path = [];
 let flag = 0;
 let isstarted = false;
 let button;
+
 function setup() {
-  let canvas = createCanvas(600, 600);
+  if (windowWidth < 600) {
+    size = 20;
+    width = 300;
+  } else {
+    size = 40;
+    width = 600;
+  }
+
+  let canvas = createCanvas(width, width);
   cols = floor(width / size);
   rows = floor(height / size);
   centerCanvas();
@@ -21,6 +30,7 @@ function setup() {
     const x = (windowWidth - width) / 2; // Calculate the x position
     const y = (windowHeight - height) / 2; // Calculate the y position
     canvas.position(x, y); // Set the position of the canvas
+    console.log(windowWidth, windowHeight);
   }
   for (let i = 0; i < rows; i++) {
     let temp = [];
